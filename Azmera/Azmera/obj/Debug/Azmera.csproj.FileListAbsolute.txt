@@ -1,0 +1,15 @@
+c:\users\user\documents\visual studio 2015\Projects\Azmera\Azmera\bin\Debug\Azmera.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Azmera\Azmera\bin\Debug\Azmera.exe
+c:\users\user\documents\visual studio 2015\Projects\Azmera\Azmera\bin\Debug\Azmera.pdb
+c:\users\user\documents\visual studio 2015\Projects\Azmera\Azmera\obj\Debug\Azmera.Form1.resources
+c:\users\user\documents\visual studio 2015\Projects\Azmera\Azmera\obj\Debug\Azmera.Properties.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\Azmera\Azmera\obj\Debug\Azmera.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\Azmera\Azmera\obj\Debug\Azmera.exe
+c:\users\user\documents\visual studio 2015\Projects\Azmera\Azmera\obj\Debug\Azmera.pdb
+c:\users\user\documents\visual studio 2015\Projects\Azmera\Azmera\obj\Debug\Azmera.Home.resources
+C:\Users\user\Documents\Visual Studio 2015\Projects\Azmera\Azmera\bin\Debug\MetroFramework.Design.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\Azmera\Azmera\bin\Debug\MetroFramework.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\Azmera\Azmera\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\Azmera\Azmera\bin\Debug\Net.Code.ADONet.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\Azmera\Azmera\obj\Debug\Azmera.OwnersCatalog.resources
+C:\Users\user\Documents\Visual Studio 2015\Projects\Azmera\Azmera\obj\Debug\Azmera.ShopKeepersCatalogue.resources
